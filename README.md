@@ -18,5 +18,8 @@ atom text editor. Packages CAN NOT be installed, it requires additional research
 ## To stop (optional)
 ```sudo ./install.sh -d```
 
+## To see help
+`sudo ./install.sh -h`
+
 ## Credit
 https://github.com/jamesnetherton/docker-atom-editor/blob/master/Dockerfile
